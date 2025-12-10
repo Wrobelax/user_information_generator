@@ -1,0 +1,201 @@
+1,en_US,Springfield,IL,#####
+2,pl_PL,Poznań,Wielkopolskie,##-###
+3,en_US,New York,NY,#####
+4,en_US,Los Angeles,CA,#####
+5,en_US,Chicago,IL,#####
+6,en_US,Houston,TX,#####
+7,en_US,Phoenix,AZ,#####
+8,en_US,Philadelphia,PA,#####
+9,en_US,San Antonio,TX,#####
+10,en_US,San Diego,CA,#####
+11,en_US,Dallas,TX,#####
+12,en_US,San Jose,CA,#####
+13,pl_PL,Warszawa,Mazowieckie,##-###
+14,pl_PL,Kraków,Małopolskie,##-###
+15,pl_PL,Łódź,Łódzkie,##-###
+16,pl_PL,Wrocław,Dolnośląskie,##-###
+17,pl_PL,Poznań,Wielkopolskie,##-###
+18,pl_PL,Gdańsk,Pomorskie,##-###
+19,pl_PL,Szczecin,Zachodniopomorskie,##-###
+20,pl_PL,Bydgoszcz,Kujawsko-Pomorskie,##-###
+21,pl_PL,Lublin,Lubelskie,##-###
+22,pl_PL,Białystok,Podlaskie,##-###
+23,pl_PL,Gdynia,Pomorskie,##-###
+24,pl_PL,Częstochowa,Śląskie,##-###
+25,pl_PL,Radom,Mazowieckie,##-###
+26,pl_PL,Toruń,Kujawsko-Pomorskie,##-###
+27,pl_PL,Rzeszów,Podkarpackie,##-###
+28,pl_PL,Opole,Opolskie,##-###
+29,pl_PL,Gliwice,Śląskie,##-###
+30,pl_PL,Zabrze,Śląskie,##-###
+31,pl_PL,Olsztyn,Warmińsko-Mazurskie,##-###
+32,pl_PL,Bielsko-Biała,Śląskie,##-###
+33,pl_PL,Płock,Mazowieckie,##-###
+34,pl_PL,Elbląg,Warmińsko-Mazurskie,##-###
+35,pl_PL,Wałbrzych,Dolnośląskie,##-###
+36,pl_PL,Zielona Góra,Lubuskie,##-###
+37,pl_PL,Koszalin,Zachodniopomorskie,##-###
+38,pl_PL,Jelenia Góra,Dolnośląskie,##-###
+39,pl_PL,Kalisz,Wielkopolskie,##-###
+40,pl_PL,Legnica,Dolnośląskie,##-###
+41,pl_PL,Grudziądz,Kujawsko-Pomorskie,##-###
+42,pl_PL,Słupsk,Pomorskie,##-###
+43,pl_PL,Jaworzno,Śląskie,##-###
+44,pl_PL,Tarnów,Małopolskie,##-###
+45,pl_PL,Chorzów,Śląskie,##-###
+46,pl_PL,Piła,Wielkopolskie,##-###
+47,pl_PL,Ostrowiec Świętokrzyski,Świętokrzyskie,##-###
+48,pl_PL,Gniezno,Wielkopolskie,##-###
+49,pl_PL,Zamość,Lubelskie,##-###
+50,pl_PL,Suwałki,Podlaskie,##-###
+51,pl_PL,Nowy Sącz,Małopolskie,##-###
+52,pl_PL,Konin,Wielkopolskie,##-###
+53,pl_PL,Leszno,Wielkopolskie,##-###
+54,pl_PL,Stalowa Wola,Podkarpackie,##-###
+55,pl_PL,Kędzierzyn-Koźle,Opolskie,##-###
+56,pl_PL,Tarnowskie Góry,Śląskie,##-###
+57,pl_PL,Łomża,Podlaskie,##-###
+58,pl_PL,Puławy,Lubelskie,##-###
+59,pl_PL,Ostrołęka,Mazowieckie,##-###
+60,pl_PL,Mysłowice,Śląskie,##-###
+61,pl_PL,Świdnica,Dolnośląskie,##-###
+62,pl_PL,Sieradz,Łódzkie,##-###
+63,pl_PL,Tychy,Śląskie,##-###
+64,pl_PL,Rybnik,Śląskie,##-###
+65,pl_PL,Dąbrowa Górnicza,Śląskie,##-###
+66,pl_PL,Pabianice,Łódzkie,##-###
+67,pl_PL,Siemianowice Śląskie,Śląskie,##-###
+68,pl_PL,Gorzów Wielkopolski,Lubuskie,##-###
+69,pl_PL,Chrzanów,Małopolskie,##-###
+70,pl_PL,Świętochłowice,Śląskie,##-###
+71,pl_PL,Piaseczno,Mazowieckie,##-###
+72,pl_PL,Kutno,Łódzkie,##-###
+73,pl_PL,Zgierz,Łódzkie,##-###
+74,pl_PL,Pruszków,Mazowieckie,##-###
+75,pl_PL,Otwock,Mazowieckie,##-###
+76,pl_PL,Legionowo,Mazowieckie,##-###
+77,pl_PL,Olkusz,Małopolskie,##-###
+78,pl_PL,Bochnia,Małopolskie,##-###
+79,pl_PL,Nowy Targ,Małopolskie,##-###
+80,pl_PL,Zakopane,Małopolskie,##-###
+81,pl_PL,Skierniewice,Łódzkie,##-###
+82,pl_PL,Zduńska Wola,Łódzkie,##-###
+83,pl_PL,Sandomierz,Świętokrzyskie,##-###
+84,pl_PL,Busko-Zdrój,Świętokrzyskie,##-###
+85,pl_PL,Kołobrzeg,Zachodniopomorskie,##-###
+86,pl_PL,Stargard,Zachodniopomorskie,##-###
+87,pl_PL,Świnoujście,Zachodniopomorskie,##-###
+88,pl_PL,Krosno,Podkarpackie,##-###
+89,pl_PL,Sanok,Podkarpackie,##-###
+90,pl_PL,Łańcut,Podkarpackie,##-###
+91,pl_PL,Przemyśl,Podkarpackie,##-###
+92,pl_PL,Tarnobrzeg,Podkarpackie,##-###
+93,pl_PL,Chełm,Lubelskie,##-###
+94,pl_PL,Zamość,Lubelskie,##-###
+95,pl_PL,Hrubieszów,Lubelskie,##-###
+96,pl_PL,Puławy,Lubelskie,##-###
+97,pl_PL,Kraśnik,Lubelskie,##-###
+98,pl_PL,Siedlce,Mazowieckie,##-###
+99,pl_PL,Żyrardów,Mazowieckie,##-###
+100,pl_PL,Wyszków,Mazowieckie,##-###
+101,pl_PL,Płońsk,Mazowieckie,##-###
+102,pl_PL,Ostrołęka,Mazowieckie,##-###
+103,pl_PL,Giżycko,Warmińsko-Mazurskie,##-###
+104,pl_PL,Ełk,Warmińsko-Mazurskie,##-###
+105,pl_PL,Mrągowo,Warmińsko-Mazurskie,##-###
+106,pl_PL,Iława,Warmińsko-Mazurskie,##-###
+107,pl_PL,Brodnica,Kujawsko-Pomorskie,##-###
+108,pl_PL,Inowrocław,Kujawsko-Pomorskie,##-###
+109,pl_PL,Włocławek,Kujawsko-Pomorskie,##-###
+110,pl_PL,Świecie,Kujawsko-Pomorskie,##-###
+111,pl_PL,Nowa Sól,Lubuskie,##-###
+112,pl_PL,Świnoujście,Zachodniopomorskie,##-###
+113,pl_PL,Kłodzko,Dolnośląskie,##-###
+114,pl_PL,Oświęcim,Małopolskie,##-###
+115,pl_PL,Wodzisław Śląski,Śląskie,##-###
+116,pl_PL,Racibórz,Śląskie,##-###
+117,pl_PL,Pruszcz Gdański,Pomorskie,##-###
+118,pl_PL,Reda,Pomorskie,##-###
+119,pl_PL,Skawina,Małopolskie,##-###
+120,pl_PL,Skarżysko-Kamienna,Świętokrzyskie,##-###
+121,pl_PL,Bełchatów,Łódzkie,##-###
+122,pl_PL,Inowrocław,Kujawsko-Pomorskie,##-###
+123,pl_PL,Środa Wielkopolska,Wielkopolskie,##-###
+124,pl_PL,Oświęcim,Małopolskie,##-###
+125,pl_PL,Nowy Dwór Mazowiecki,Mazowieckie,##-###
+126,pl_PL,Mława,Mazowieckie,##-###
+127,pl_PL,Pułtusk,Mazowieckie,##-###
+128,pl_PL,Sanok,Podkarpackie,##-###
+129,pl_PL,Zielonka,Mazowieckie,##-###
+130,pl_PL,Kępno,Wielkopolskie,##-###
+131,pl_PL,Sopot,Pomorskie,##-###
+132,pl_PL,Międzyrzecz,Lubuskie,##-###
+133,pl_PL,Bogatynia,Dolnośląskie,##-###
+134,pl_PL,Kwidzyn,Pomorskie,##-###
+135,pl_PL,Żagań,Lubuskie,##-###
+136,pl_PL,Lębork,Pomorskie,##-###
+137,pl_PL,Ostrów Wielkopolski,Wielkopolskie,##-###
+138,pl_PL,Kętrzyn,Warmińsko-Mazurskie,##-###
+139,pl_PL,Śrem,Wielkopolskie,##-###
+140,pl_PL,Kamienna Góra,Dolnośląskie,##-###
+141,pl_PL,Cieszyn,Śląskie,##-###
+142,pl_PL,Łowicz,Łódzkie,##-###
+143,pl_PL,Głogów,Dolnośląskie,##-###
+144,pl_PL,Puck,Pomorskie,##-###
+145,pl_PL,Krosno Odrzańskie,Lubuskie,##-###
+146,pl_PL,Skoki,Wielkopolskie,##-###
+147,pl_PL,Bielawa,Dolnośląskie,##-###
+148,pl_PL,Żory,Śląskie,##-###
+149,pl_PL,Otmuchów,Opolskie,##-###
+150,pl_PL,Sokółka,Podlaskie,##-###
+151,pl_PL,Mikołów,Śląskie,##-###
+152,pl_PL,Bartoszyce,Warmińsko-Mazurskie,##-###
+153,pl_PL,Pabianice,Łódzkie,##-###
+154,pl_PL,Jarocin,Wielkopolskie,##-###
+155,pl_PL,Skawina,Małopolskie,##-###
+156,pl_PL,Ząbki,Mazowieckie,##-###
+157,pl_PL,Gubin,Lubuskie,##-###
+158,pl_PL,Biała Podlaska,Lubelskie,##-###
+159,pl_PL,Żuromin,Mazowieckie,##-###
+160,pl_PL,Czeladź,Śląskie,##-###
+161,pl_PL,Szczawnica,Małopolskie,##-###
+162,pl_PL,Bolesławiec,Dolnośląskie,##-###
+163,pl_PL,Szczebrzeszyn,Lubelskie,##-###
+164,pl_PL,Nowe Miasto Lubawskie,Warmińsko-Mazurskie,##-###
+165,pl_PL,Będzin,Śląskie,##-###
+166,pl_PL,Żmigród,Dolnośląskie,##-###
+167,pl_PL,Brzeg,Opolskie,##-###
+168,pl_PL,Świętochłowice,Śląskie,##-###
+169,pl_PL,Grodzisk Mazowiecki,Mazowieckie,##-###
+170,pl_PL,Przasnysz,Mazowieckie,##-###
+171,pl_PL,Mikołajki,Warmińsko-Mazurskie,##-###
+172,pl_PL,Brodnica,Kujawsko-Pomorskie,##-###
+173,pl_PL,Białogard,Zachodniopomorskie,##-###
+174,pl_PL,Węgorzewo,Warmińsko-Mazurskie,##-###
+175,pl_PL,Nowa Ruda,Dolnośląskie,##-###
+176,pl_PL,Września,Wielkopolskie,##-###
+177,pl_PL,Kętrzyn,Warmińsko-Mazurskie,##-###
+178,pl_PL,Olkusz,Małopolskie,##-###
+179,pl_PL,Gryfice,Zachodniopomorskie,##-###
+180,pl_PL,Kościerzyna,Pomorskie,##-###
+181,pl_PL,Sępólno Krajeńskie,Kujawsko-Pomorskie,##-###
+182,pl_PL,Turek,Wielkopolskie,##-###
+183,pl_PL,Konstantynów Łódzki,Łódzkie,##-###
+184,pl_PL,Przeworsk,Podkarpackie,##-###
+185,pl_PL,Mszczonów,Mazowieckie,##-###
+186,pl_PL,Żychlin,Łódzkie,##-###
+187,pl_PL,Nowa Sól,Lubuskie,##-###
+188,pl_PL,Bolesławiec,Dolnośląskie,##-###
+189,pl_PL,Radlin,Śląskie,##-###
+190,pl_PL,Bardo,Dolnośląskie,##-###
+191,pl_PL,Ostróda,Warmińsko-Mazurskie,##-###
+192,pl_PL,Międzyrzec Podlaski,Lubelskie,##-###
+193,pl_PL,Głowno,Łódzkie,##-###
+194,pl_PL,Gostyń,Wielkopolskie,##-###
+195,pl_PL,Żarnów,Łódzkie,##-###
+196,pl_PL,Koło,Wielkopolskie,##-###
+197,pl_PL,Pleszew,Wielkopolskie,##-###
+198,pl_PL,Biecz,Małopolskie,##-###
+199,pl_PL,Gąbin,Mazowieckie,##-###
+200,pl_PL,Sulechów,Lubuskie,##-###
+201,pl_PL,Gryfino,Zachodniopomorskie,##-###
