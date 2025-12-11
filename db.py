@@ -1,7 +1,10 @@
 import os
 import psycopg2
 import pandas as pd
+import streamlit as st
 
+
+DATABASE_URL = st.secrets.get("DATABASE_URL") or os.getenv("DATABASE_URL")
 
 def get_connection():
     db_url = os.getenv("DATABASE_URL")
