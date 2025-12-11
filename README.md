@@ -37,6 +37,7 @@ user_information_generator/
 │   └── functions.sql            # RNG, generate_user, generate_batch
 ├── app.py                       # Frontend dashboard and main script for app running.
 ├── benchmark.py                 # Script used for counting benchmark of SQL database.
+├── import_data.py               # Script used for data import to SQL database.
 ├── requirements.txt
 └── db.py                        # Script used for connecting into database.
 ```

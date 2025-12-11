@@ -1,3 +1,4 @@
+id,locale_code,city,region,postcode_pattern
 1,en_US,Springfield,IL,#####
 2,pl_PL,Poznań,Wielkopolskie,##-###
 3,en_US,New York,NY,#####

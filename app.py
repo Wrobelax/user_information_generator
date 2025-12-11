@@ -3,11 +3,9 @@ Script for generating frontend via Streamlit.
 """
 
 import streamlit as st
-from dotenv import load_dotenv
 import db
 from db import fetch_batch
 
-load_dotenv()
 
 st.set_page_config(page_title="User Generator", layout="wide")
 

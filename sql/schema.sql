@@ -7,8 +7,6 @@ CREATE TABLE IF NOT EXISTS public.locales (
     description text
 );
 
-GRANT INSERT, SELECT, UPDATE, DELETE ON TABLE public.locales TO fakegen;
-
 
 ------------------------------------------------------------
 -- TABLE: names
@@ -22,8 +20,6 @@ CREATE TABLE IF NOT EXISTS public.names (
     gender text
 );
 
-GRANT INSERT, SELECT, UPDATE, DELETE ON TABLE public.names TO fakegen;
-
 
 ------------------------------------------------------------
 -- TABLE: street_names
@@ -34,8 +30,6 @@ CREATE TABLE IF NOT EXISTS public.street_names (
     locale_code text REFERENCES public.locales(locale_code),
     street text
 );
-
-GRANT INSERT, SELECT, UPDATE, DELETE ON TABLE public.street_names TO fakegen;
 
 
 ------------------------------------------------------------
@@ -50,8 +44,6 @@ CREATE TABLE IF NOT EXISTS public.cities (
     postcode_pattern text
 );
 
-GRANT INSERT, SELECT, UPDATE, DELETE ON TABLE public.cities TO fakegen;
-
 
 ------------------------------------------------------------
 -- TABLE: phone_formats
@@ -63,8 +55,6 @@ CREATE TABLE IF NOT EXISTS public.phone_formats (
     fmt text
 );
 
-GRANT INSERT, SELECT, UPDATE, DELETE ON TABLE public.phone_formats TO fakegen;
-
 
 ------------------------------------------------------------
 -- TABLE: email_domains
@@ -75,5 +65,3 @@ CREATE TABLE IF NOT EXISTS public.email_domains (
     locale_code text REFERENCES public.locales(locale_code),
     domain text
 );
-
-GRANT INSERT, SELECT, UPDATE, DELETE ON TABLE public.email_domains TO fakegen;

@@ -32,7 +32,6 @@ END;
 $BODY$;
 
 GRANT EXECUTE ON FUNCTION public.rng_uniform(text, bigint, bigint, bigint) TO PUBLIC;
-GRANT EXECUTE ON FUNCTION public.rng_uniform(text, bigint, bigint, bigint) TO fakegen;
 
 
 ------------------------------------------------------------
@@ -58,8 +57,6 @@ AS $BODY$
 $BODY$;
 
 GRANT EXECUTE ON FUNCTION public.rng_int_from(text, bigint, bigint, bigint, integer, integer) TO PUBLIC;
-GRANT EXECUTE ON FUNCTION public.rng_int_from(text, bigint, bigint, bigint, integer, integer) TO fakegen;
-
 
 ------------------------------------------------------------
 -- rng_normal: Box-Muller normal distribution
@@ -83,7 +80,6 @@ AS $BODY$
 $BODY$;
 
 GRANT EXECUTE ON FUNCTION public.rng_normal(text, bigint, bigint, bigint, double precision, double precision) TO PUBLIC;
-GRANT EXECUTE ON FUNCTION public.rng_normal(text, bigint, bigint, bigint, double precision, double precision) TO fakegen;
 
 
 ------------------------------------------------------------
@@ -105,7 +101,6 @@ AS $BODY$
 $BODY$;
 
 GRANT EXECUTE ON FUNCTION public.translit(text) TO PUBLIC;
-GRANT EXECUTE ON FUNCTION public.translit(text) TO fakegen;
 
 
 ------------------------------------------------------------
@@ -268,7 +263,6 @@ END;
 $BODY$;
 
 GRANT EXECUTE ON FUNCTION public.generate_user_safe(text, bigint, bigint, integer) TO PUBLIC;
-GRANT EXECUTE ON FUNCTION public.generate_user_safe(text, bigint, bigint, integer) TO fakegen;
 
 
 ------------------------------------------------------------
@@ -313,4 +307,3 @@ END;
 $BODY$;
 
 GRANT EXECUTE ON FUNCTION public.generate_batch(text, bigint, bigint, integer) TO PUBLIC;
-GRANT EXECUTE ON FUNCTION public.generate_batch(text, bigint, bigint, integer) TO fakegen;
